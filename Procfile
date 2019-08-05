@@ -1,1 +1,1 @@
-worker: python main_controller.py
+python-3.6.0
